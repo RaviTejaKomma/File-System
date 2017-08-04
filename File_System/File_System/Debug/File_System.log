@@ -1,0 +1,151 @@
+﻿Build started 04-08-2017 18:11:41.
+     1>Project "F:\MyWork\git_repo\File_System\File_System\File_System.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>f:\mywork\git_repo\file_system\file_system\main.c(99): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(107): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(156): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(188): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(201): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(246): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(248): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(263): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(267): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(270): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(308): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(317): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(344): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(353): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(375): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(381): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(393): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(425): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(435): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(437): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(441): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(458): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(476): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(480): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(483): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(490): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(502): warning C4244: 'function' : conversion from '__int64' to 'long', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(505): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(507): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(586): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+     1>f:\mywork\git_repo\file_system\file_system\main.c(597): warning C4244: 'function' : conversion from '__int64' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\MyWork\git_repo\File_System\Debug\File_System.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\MyWork\git_repo\File_System\Debug\File_System.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\MyWork\git_repo\File_System\Debug\File_System.lib" /MACHINE:X86 Debug\main.obj
+         File_System.vcxproj -> F:\MyWork\git_repo\File_System\Debug\File_System.exe
+     1>Done Building Project "F:\MyWork\git_repo\File_System\File_System\File_System.vcxproj" (Build target(s)).
+
+Project Performance Summary:
+     4667 ms  F:\MyWork\git_repo\File_System\File_System\File_System.vcxproj   1 calls
+               4667 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  AfterBuild                                 1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  GetInstalledSDKLocations                   1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _PrepareForReferenceResolution             1 calls
+        0 ms  MakeDirsForLink                            1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  ComputeLegacyManifestEmbedding             1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  DoLinkOutputFilesMatch                     1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        1 ms  RegisterOutput                             1 calls
+        1 ms  Build                                      1 calls
+        1 ms  GetCopyToOutputDirectoryItems              1 calls
+        1 ms  PostBuildEvent                             1 calls
+        1 ms  GetReferenceAssemblyPaths                  1 calls
+        1 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        1 ms  MakeDirsForResourceCompile                 1 calls
+        1 ms  CopyFilesToOutputDirectory                 1 calls
+        1 ms  ComputeCLOutputs                           1 calls
+        1 ms  ComputeCLInputPDBName                      1 calls
+        1 ms  ComputeCustomBuildOutput                   1 calls
+        1 ms  PlatformPrepareForBuild                    1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        1 ms  MakeDirsForMidl                            1 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  ResolveAssemblyReferences                  1 calls
+        1 ms  ComputeLinkSwitches                        1 calls
+        2 ms  AssignTargetPaths                          1 calls
+        2 ms  SplitResourcesByCulture                    1 calls
+        2 ms  AssignProjectConfiguration                 1 calls
+        3 ms  FinalizeBuildStatus                        1 calls
+        4 ms  WarnCompileDuplicatedFilename              1 calls
+        6 ms  MakeDirsForCl                              1 calls
+        6 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        9 ms  InitializeBuildStatus                      1 calls
+       17 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       65 ms  PrepareForBuild                            1 calls
+      769 ms  SetCABuildNativeEnvironmentVariables       1 calls
+     1683 ms  ClCompile                                  1 calls
+     2022 ms  Link                                       1 calls
+
+Build succeeded.
+
+Time Elapsed 00:00:04.60
